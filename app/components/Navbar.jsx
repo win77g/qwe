@@ -28,7 +28,7 @@ const Navbar = () => {
             <Link href="https://en.wikipedia.org" target="_blank" onClick={ () => setNavbar(!navbar)}>Insects as Food</Link>
           </li>
           <li className='text-left p-3 md:mb-1 uppercase font-bold text-2xl md:text-[18px] md:px-4 hover:text-[var(--primary-color)] cursor-pointer'>
-            <Link href="/#ikea"  onClick={ () => setNavbar(!navbar)}>I'kea as Food</Link>
+            <Link href="/#ikea"  onClick={ () => setNavbar(!navbar)}>Ikea as Food</Link>
           </li>
           <li className='text-left p-3 md:mb-1 uppercase font-bold text-2xl md:text-[18px] md:px-4 hover:text-[var(--primary-color)] cursor-pointer'>
             <Link href="https://en.wikipedia.org" target="_blank" onClick={ () => setNavbar(!navbar)}>Shop</Link>

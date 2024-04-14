@@ -1,7 +1,7 @@
 import React from 'react'
 import Link from 'next/link'
 import Image from 'next/image'
-import image from '@/assets/LRM.jpeg'
+import image from '/public/LRM.jpeg'
 function Hero() {
   return (
     <div className='h-screen flex justify-center items-center bg-center bg-cover '>

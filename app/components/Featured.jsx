@@ -1,8 +1,7 @@
 import React from 'react'
 import { BsFillArrowRightCircleFill } from "react-icons/bs"
 import Image from 'next/image'
-import image from '@/assets/mechov-dort.webp'
-import imagee from '@/assets/chocolate.webp'
+import imagee from '/public/chocolate.webp'
 import Link from 'next/link'
 const Featured = () => {
   return (
